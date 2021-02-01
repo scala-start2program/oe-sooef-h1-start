@@ -27,9 +27,7 @@ Bestudeer aandachtig de controls in je WPF venster.
 
 Tijdens het opstarten voeg je een aantal dummy fietsen toe aan de listbox (gebruik uiteraard instanties van je klasse hiervoor).  
 Wanneer in de listbox een fiets wordt geselecteerd dan dienen alle eigenschappen van die fiets in de corresponderende controls te verschijnen.  
-
-
   
 
-![vb](assets/opdracht3.gif)  
+![vb](assets/oe-soeef-h1.gif)  
 
